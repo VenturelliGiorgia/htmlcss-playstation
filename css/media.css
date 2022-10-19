@@ -25,10 +25,15 @@
 
     .link-container {
         display: flex;
+        justify-content: space-between;
     }
 
     .my_pt-lg-10 {
         padding-top: 10rem;
+    }
+
+    .logo {
+        display: none;
     }
 
 }

@@ -1,0 +1,47 @@
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+header ul {
+    display: flex;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    padding: 1rem .5rem;
+
+}
+
+.chevron {
+    width: 10px;
+}
+
+.lens {
+    width: 20px;
+}
+
+.link-container {
+    display: none;
+}
+
+.my_container {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.image-bg {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.my_pt-5 {
+    padding-top: 5rem;
+}
+
+.row img {
+    width: 100%;
+    display: block;
+}

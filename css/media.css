@@ -1,0 +1,34 @@
+@media screen and (min-width:576px) {
+
+    .my_pt-sm-6 {
+        padding-top: 6rem;
+    }
+
+    .my_container-sm {
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
+}
+
+@media screen and (min-width:768px) {
+
+    .my_pt-md-8 {
+        padding-top: 8rem;
+    }
+}
+
+@media screen and (min-width:992px) {
+
+    .hamburger-menu {
+        display: none;
+    }
+
+    .link-container {
+        display: flex;
+    }
+
+    .my_pt-lg-10 {
+        padding-top: 10rem;
+    }
+
+}

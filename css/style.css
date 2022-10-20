@@ -32,10 +32,15 @@ li {
 }
 
 .image-bg {
-    background-image: url("../img/jumbo-bg.png");
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.jambo {
+    background-image: url("../img/jumbo-bg.png");
+
 }
 
 .my_pt-5 {
@@ -45,4 +50,13 @@ li {
 .row img {
     width: 100%;
     display: block;
+}
+
+.bg-grey {
+    background-color: rgb(31 31 31);
+}
+
+.card {
+    background-color: transparent !important;
+    border: 0;
 }

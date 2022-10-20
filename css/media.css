@@ -19,6 +19,10 @@
     .w-md-75 {
         width: 75% !important;
     }
+
+    .w-md-15 {
+        width: 15% !important;
+    }
 }
 
 @media screen and (min-width:992px) {

@@ -14,6 +14,11 @@ li {
 
 }
 
+footer .link-footer a {
+    text-decoration: none;
+    color: white;
+}
+
 .chevron {
     width: 10px;
 }
@@ -60,6 +65,10 @@ li {
     background-color: rgb(190 188 187);
 }
 
+.bg-blue {
+    background-color: rgb(22 25 61);
+}
+
 .btn-grey {
     background-color: rgb(217 218 220);
 }
@@ -68,3 +77,13 @@ li {
     background-color: transparent !important;
     border: 0;
 }
+
+.bg-footer {
+    background-color: rgb(0 56 162);
+}
+
+.language img {
+    width: 25px;
+    margin: 3rem 0.5rem 3rem 1rem;
+}
+

@@ -61,6 +61,10 @@ footer .link-footer a {
     background-color: rgb(31 31 31);
 }
 
+.text-grey {
+    color: rgb(127 127 127);
+}
+
 .bg-light-grey {
     background-color: rgb(190 188 187);
 }
@@ -86,4 +90,3 @@ footer .link-footer a {
     width: 25px;
     margin: 3rem 0.5rem 3rem 1rem;
 }
-

@@ -23,19 +23,6 @@ footer .link-footer a {
     width: 10px;
 }
 
-.lens {
-    width: 20px;
-}
-
-.link-container {
-    display: none;
-}
-
-.my_container {
-    margin-left: 1rem;
-    margin-right: 1rem;
-}
-
 .image-bg {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-position: center;

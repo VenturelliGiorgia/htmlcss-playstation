@@ -77,3 +77,12 @@ footer .link-footer a {
     width: 25px;
     margin: 3rem 0.5rem 3rem 1rem;
 }
+
+.riga-blue:hover {
+    border-bottom: 2px solid rgb(0 56 162);
+}
+
+.row .image-game:hover {
+    padding: 3px;
+    border: 3px solid rgb(0 56 162);
+}
